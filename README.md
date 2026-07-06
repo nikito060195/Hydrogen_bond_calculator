@@ -12,3 +12,9 @@ Método de cálculo:
  /    |
 D-------------A
        r
+
+Instalação dos requerimentos:
+pip install -r requirements.txt
+
+Instalação do utilitário:
+pip install .
